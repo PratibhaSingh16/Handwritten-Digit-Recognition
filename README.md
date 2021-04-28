@@ -32,6 +32,6 @@ In comparison with Naive Bayes Algorithm, SVM has a faster prediction along with
 After using the above mentioned tools and using python code, this way we trained our model, ad then tested it, and to do properly test our model's accuracy we predicted it using python code, and turn our model was 97.9% accurate in predicting the Handwritten digits correctly.
 
 
-Below are few screenshots to represent the Digit recognition done by our model:
+Below is the screenshot to represent the Digit recognition done by our model:
 
 ![Handwritten Digit Recognition](https://miro.medium.com/max/481/1*GFcHwBgzz4MdjZGa6pf_4A.png)
