@@ -33,5 +33,11 @@ After using the above mentioned tools and using python code, this way we trained
 
 
 Below is the screenshot to represent the Digit recognition done by our model:
+![1](https://user-images.githubusercontent.com/77543839/119193650-eb6e7700-ba4f-11eb-9f59-9f16ba937a88.png)
 
-![Handwritten Digit Recognition](https://miro.medium.com/max/481/1*GFcHwBgzz4MdjZGa6pf_4A.png)
+
+![2](https://user-images.githubusercontent.com/77543839/119193656-ed383a80-ba4f-11eb-8d7e-1c80aa9e750a.png)
+
+
+![3](https://user-images.githubusercontent.com/77543839/119193662-ee696780-ba4f-11eb-8517-9933beb700d4.png)
+
